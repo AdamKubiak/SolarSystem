@@ -6,4 +6,4 @@ Planety poruszają się po eliptycznych orbitach, przy każdej planecie pokazana
 - [Adam Kubiak](https://github.com/AdamKubiak),
 
 ### Prezentacja programu
-![](docs/img/Solarsystem.png)
+![](docs/img/Solarsystem.gif)
